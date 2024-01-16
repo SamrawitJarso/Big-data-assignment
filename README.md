@@ -22,21 +22,13 @@ The purpose of this project is to collect, explore and analyse data about three 
 
 ## Files:
 
-1. Lifestyle_Data_Analysis_Gapminder.ipynb
+1. Lifestyle_Data_Analysis_Gapminder.ipynb: ipynb file (Jupyter Notebook File)
 
-- ipynb file (Jupyter Notebook File)
+2. children_per_woman_total_fertility.csv:  CSV Database File.
 
-2. children_per_woman_total_fertility.csv
+3. child_mortality_0_5_year_olds_dying_per_1000_born.csv: CSV Database File.
 
-- CSV Database File.
-
-3. child_mortality_0_5_year_olds_dying_per_1000_born.csv
-
-- CSV Database File.
-
-4. females_aged_15plus_employment_rate_percent.csv
-
-- CSV Database File.
+4. females_aged_15plus_employment_rate_percent.csv: CSV Database File.
 
 ## Datasets Description:
 
